@@ -9,5 +9,5 @@ This is an assignment for Coursera Getting and Cleaning course. The script run_a
 6. Changes variables names to more descriptive and tidy
 7. Convert subject and activity columns into factors
 8. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
-9. Save result as an independent data set tidy.txt
+9. Saves result as an independent data set tidy.txt
 
