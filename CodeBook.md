@@ -1,11 +1,11 @@
 ## Code Book
 This code book summarize all variables in *tidy.txt* data set
 
-## *Identifiers*
+### *Identifiers*
 * subject - each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
 * activity - each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-## *Measurements*
+### *Measurements*
 * tBodyAccMeanX
 * tBodyAccMeanY 
 * tBodyAccMeanZ
